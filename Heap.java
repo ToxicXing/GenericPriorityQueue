@@ -1,4 +1,3 @@
-package Practise11;
 import java.util.*;
 public class Heap<E> {
 	private static final int INITIAL_CAPACITY = 11;
